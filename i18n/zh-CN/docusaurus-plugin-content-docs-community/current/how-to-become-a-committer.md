@@ -22,8 +22,8 @@ Apache InLong Committer 拥有 InLong 代码库的写权限，可以合并 PR，
 - 审查(Review) 其他人的工作（包括代码和非代码）并发表你自己的建议
 - 对 GitHub 上的 Issue 进行审查，维护 Issue 为最新状态，比如：关闭过时的 Issue、更改 Issue 的错误信息等
 - 指导新加入的贡献者，熟悉社区流程
-- 发表关于 InLong 的演讲和博客，并将这些添加到 Issue 的官方网站
-- 有利于 Issue 社区发展的任何贡献
+- 发表关于 InLong 的演讲和博客，并将这些添加到 InLong 的官方网站
+- 有利于 InLong 社区发展的任何贡献
 - ......
 
 更多可以参考：[ASF官方文档](https://community.apache.org/contributors/)
